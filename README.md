@@ -1,4 +1,6 @@
-Steps To Run The AtoZNFT Web Application
+This project is a Django based NFT Marketplace, where you can buy and view listed NFTs.
+
+Steps To Run AtoZNFT Web Application
 
 Ensure you have the following installed:
 - Python
@@ -9,7 +11,7 @@ Ensure you have the following installed:
 (you can install Django/Pillow by typing "pip install Django" or "pip install Pillow" on Terminal)
 In case you would like to use a virtual environment, please download vent or conda (for our project, we have used venv)
 
-Once your environment is set up, go to Terminal, navigate/cd to the unzipped folder and then folder 'ecommerce' (Ex. Type in Terminal 'cd ecommerce').
+Once your environment is set up, go to Terminal, navigate/cd to the unzipped folder and then folder 'ecommerce' (Ex. Type in Terminal 'cd ecommerce').
 Use terminal to start the server by typing the following :-
 
 Windows: py manage.py runserver
